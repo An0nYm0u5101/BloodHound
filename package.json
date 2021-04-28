@@ -61,7 +61,7 @@
         "webpack-hot-middleware": "^2.25.0"
     },
     "dependencies": {
-        "@fortawesome/fontawesome-free": "^5.14.0",
+        "@fortawesome/fontawesome-free": "^5.15.3",
         "async": "^2.6.3",
         "bootstrap": "^3.4.1",
         "clsx": "^1.1.1",
